@@ -1,0 +1,15 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:converters="clr-namespace:SchoolManagementSystem.Helpers.Converters">
+    
+    <converters:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    <converters:InverseBooleanConverter x:Key="InverseBooleanConverter"/>
+    <converters:StringToVisibilityConverter x:Key="StringToVisibilityConverter"/>
+    <converters:BoolToSidebarWidthConverter x:Key="BoolToSidebarWidthConverter"/>
+    <converters:BoolToSidebarToggleIconConverter x:Key="BoolToSidebarToggleIconConverter"/>
+    <converters:RoleToPermissionConverter x:Key="RoleToPermissionConverter"/>
+    <converters:EmptyCollectionToVisibilityConverter x:Key="EmptyCollectionToVisibilityConverter"/>
+    <converters:BoolToStatusBrushConverter x:Key="BoolToStatusBrushConverter"/>
+    <converters:BoolToStatusTextConverter x:Key="BoolToStatusTextConverter"/>
+    
+</ResourceDictionary>

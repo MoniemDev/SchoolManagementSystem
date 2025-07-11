@@ -1,0 +1,5 @@
+/workspace/SchoolManagementSystem/obj/Debug/net6.0/SchoolManagementSystem.csproj.AssemblyReference.cache
+/workspace/SchoolManagementSystem/obj/Debug/net6.0/SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/SchoolManagementSystem/obj/Debug/net6.0/SchoolManagementSystem.AssemblyInfoInputs.cache
+/workspace/SchoolManagementSystem/obj/Debug/net6.0/SchoolManagementSystem.AssemblyInfo.cs
+/workspace/SchoolManagementSystem/obj/Debug/net6.0/SchoolManagementSystem.csproj.CoreCompileInputs.cache

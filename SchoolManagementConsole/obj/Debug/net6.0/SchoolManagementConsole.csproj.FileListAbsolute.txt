@@ -1,0 +1,15 @@
+/workspace/SchoolManagementConsole/bin/Debug/net6.0/SchoolManagementConsole
+/workspace/SchoolManagementConsole/bin/Debug/net6.0/SchoolManagementConsole.deps.json
+/workspace/SchoolManagementConsole/bin/Debug/net6.0/SchoolManagementConsole.runtimeconfig.json
+/workspace/SchoolManagementConsole/bin/Debug/net6.0/SchoolManagementConsole.dll
+/workspace/SchoolManagementConsole/bin/Debug/net6.0/SchoolManagementConsole.pdb
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/SchoolManagementConsole.csproj.AssemblyReference.cache
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/SchoolManagementConsole.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/SchoolManagementConsole.AssemblyInfoInputs.cache
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/SchoolManagementConsole.AssemblyInfo.cs
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/SchoolManagementConsole.csproj.CoreCompileInputs.cache
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/SchoolManagementConsole.dll
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/refint/SchoolManagementConsole.dll
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/SchoolManagementConsole.pdb
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/SchoolManagementConsole.genruntimeconfig.cache
+/workspace/SchoolManagementConsole/obj/Debug/net6.0/ref/SchoolManagementConsole.dll
