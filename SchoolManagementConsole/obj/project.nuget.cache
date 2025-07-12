@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EBPeQPCjK4dCGktt8gFjNKNsjBh27RiTzQJe1MTHusj7gN5Kw6QTTsyxvjKWYGEr4JXwQMFqbVmW2JCFyRSHBg==",
+  "dgSpecHash": "8ZBMui+D63DsvnR/Tn6LXo7+qiy/Tm0q3VnEzGWBwJwsA271JUDqhoFjayTC5v/QI8f8DNIpsizdP2vMKogMug==",
   "success": true,
-  "projectFilePath": "/workspace/SchoolManagementConsole/SchoolManagementConsole.csproj",
+  "projectFilePath": "/home/moniem/Downloads/SchoolManagementSystem/SchoolManagementConsole/SchoolManagementConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

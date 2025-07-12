@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/SchoolManagementSystem/SchoolManagementSystem.csproj": {}
+    "/home/moniem/Downloads/SchoolManagementSystem/SchoolManagementSystem/SchoolManagementSystem.csproj": {}
   },
   "projects": {
-    "/workspace/SchoolManagementSystem/SchoolManagementSystem.csproj": {
+    "/home/moniem/Downloads/SchoolManagementSystem/SchoolManagementSystem/SchoolManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/SchoolManagementSystem/SchoolManagementSystem.csproj",
+        "projectUniqueName": "/home/moniem/Downloads/SchoolManagementSystem/SchoolManagementSystem/SchoolManagementSystem.csproj",
         "projectName": "SchoolManagementSystem",
-        "projectPath": "/workspace/SchoolManagementSystem/SchoolManagementSystem.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/workspace/SchoolManagementSystem/obj/",
+        "projectPath": "/home/moniem/Downloads/SchoolManagementSystem/SchoolManagementSystem/SchoolManagementSystem.csproj",
+        "packagesPath": "/home/moniem/.nuget/packages/",
+        "outputPath": "/home/moniem/Downloads/SchoolManagementSystem/SchoolManagementSystem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/moniem/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -72,12 +72,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.117/RuntimeIdentifierGraph.json"
         }
       }
     }
